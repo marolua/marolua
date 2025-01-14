@@ -37,7 +37,6 @@ Salut ! Je suis **Maro**, développeur sur **FiveM** depuis 2022 avec une expert
 ## 📫 Contactez-moi
 - **Discord** : [maro.lua](#)
 - **E-mail** : [E-Mail](mailto:marolsw.twitch@gmail.com)
-- **Twitter** : [@VotrePseudo](https://twitter.com/VotrePseudo)
 
 ---
 
