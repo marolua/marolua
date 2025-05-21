@@ -6,22 +6,29 @@
 
 ## 🚀 Compétences principales
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,lua,vscode,github,mysql"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,lua,vscode,github,mysql,figma,git,github,vite,sass,npm,ae,pr"/>
 </div>
 
 ---
 
 ## 📂 Projets
-### 🔥 [Mr Developpement](#)
-**Discord** : https://discord.gg/JSgWyAfhpJ
+### 🔥 [ModSync Studio](#)
+**GitHub** : https://github.com/ModSyncStudio
+
+**Discord** : https://discord.gg/FcFy38Faqn
 
 ---
 
 ## 📊 Statistiques GitHub
-![Vos Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=marolua&show_icons=true&theme=radical)
+![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=marolua&show_icons=true&theme=radical)
 ![Langues Utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=marolua&layout=compact&theme=radical)
 
 ---
+
+## 🏆 Trophée GitHub
+![](https://github-profile-trophy.vercel.app/?username=marolua&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+--
 
 ## 📫 Contactez-moi
 - **Discord** : [maro.lua](#)
