@@ -23,11 +23,6 @@
 ![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=marolua&show_icons=true&theme=radical)
 ![Langues Utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=marolua&layout=compact&theme=radical)
 
----
-
-## 🏆 Trophée GitHub
-![](https://github-profile-trophy.vercel.app/?username=marolua&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 --
 
 ## 📫 Contactez-moi
