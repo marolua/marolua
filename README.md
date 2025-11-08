@@ -1,6 +1,6 @@
 # 💻 Bienvenue sur mon GitHub !
 
-<p align='left'>Salut ! Je suis Maro, développeur sur FiveM depuis 2022 avec une expertise en Lua, HTML, CSS, SCSS, JS, ReactJS Passionné par la création d’expériences immersives et de scripts performants.</p>
+<p align='left'>Salut ! Je suis Maro, développeur sur FiveM depuis 2023 avec une expertise en Lua, HTML, CSS, SCSS, JS, ReactJS Passionné par la création d’expériences immersives et de scripts performants.</p>
 
 ---
 
