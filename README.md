@@ -33,10 +33,9 @@
 | 🔧 Project | 🧠 Description | ⚙️ Status |
 |------------|----------------|------------|
 | **Communication App** | Real-time messaging platform with modern UI and secure backend | 🏗️ In development |
-| **GTA RP Inventory** | Advanced inventory with dynamic item logic and modern UI | ⚙️ In progress |
-| **GTA RP Phone** | Realistic in-game smartphone with contacts, apps, and chat system | ⚙️ In progress |
 | **Redside Tools** | Custom utilities and interfaces for the Redside RP server | ✅ Active |
 | **ModSync Shop** | Custom GTA RP resources and full systems for sale | 🏗️ Work in progress |
+| **LS World WL** | My RolePlay Server, Whitelist | ⚙️ In progress |
 
 ---
 
